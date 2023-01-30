@@ -31,6 +31,7 @@ python manage.py shell
 ```
 Share the screenshot of your shell.
 - [x] Screenshot one.
+![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img1.png?raw=true)
 - [x] Screenshot two.
 - [x] Screenshot three.
 
@@ -41,7 +42,7 @@ Share the screenshot of your shell.
 
 ### Example:
 `/polls/` page with list of Questions:
-![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img1.png?raw=true)
+
 
 `/vote/1/`
 <!-- ![This is an image](/assets/images/img.png) -->
