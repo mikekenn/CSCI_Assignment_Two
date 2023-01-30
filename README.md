@@ -30,7 +30,7 @@ python manage.py shell
 Share the screenshot of your shell.
 
 ## Question 3.
-Change `views.py` of your polls app and add a view which should use a template to render. When you run the server, you should be able to click on `[insert local URL]` (Port number might be different in your case) to open in browser and it should list all the questions.
+Change `views.py` of your polls app and add a view which should use a template to render. When you run the server, you should be able to click on `http://127.0.0.1:8000/` to open in browser and it should list all the questions.
 
 With a button to 'Vote'. On click of vote, it should open the choices for that question and the user must be able to vote on a hoice and submit.
 
@@ -56,6 +56,10 @@ Django is easy to setup and use. Do you agree? (Yes/No)? White a bried reason fo
 
 Add Django python setup steps.
 
-Check python version/if python is installed `python`.  
-Check to see if Django is installed/the version `python -m django --version`
-If not installed, go ahead and install `pip3 install django==4.0.4` 
+1. Check python version/if python is installed `python`.
+2. Check to see if Django is installed/the version `python -m django --version`
+3. If not installed, go ahead and install `pip3 install django==4.0.4`
+4. Create Django project `django-admin startproject mysite`
+5. spin up server `python3.11 manage.py runserver`
+6. Create polls app `paython3.11 manage.py startapp polls`
+7. 
