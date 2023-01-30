@@ -53,3 +53,9 @@ Add and edit a question with appropriate choices. You are allowed to use Django 
 
 ## Question 6.
 Django is easy to setup and use. Do you agree? (Yes/No)? White a bried reason for your choice.
+
+Add Django python setup steps.
+
+Check python version/if python is installed `python`.  
+Check to see if Django is installed/the version `python -m django --version`
+If not installed, go ahead and install `pip3 install django==4.0.4` 
