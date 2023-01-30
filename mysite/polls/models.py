@@ -1,3 +1,4 @@
+"""Import database"""
 from django.db import models
 
 
