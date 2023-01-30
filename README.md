@@ -30,11 +30,12 @@ question_text = models.CharField(max_length=200)
 python manage.py shell
 ```
 Share the screenshot of your shell.
-- [x] Screenshot one.
+- [x] Screenshot one.  
 ![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img1.png?raw=true)
-- [x] Screenshot two.
-- [x] Screenshot three.
-
+- [x] Screenshot two.  
+![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img2.png?raw=true)
+- [x] Screenshot three.  
+![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img3.png?raw=true)
 ## Question 3.
 - [x] Change `views.py` of your polls app and add a view which should use a template to render.  
 - [x] When you run the server, you should be able to click on `http://127.0.0.1:8000/` to open in browser and it should list all the questions.
