@@ -41,7 +41,7 @@ Share the screenshot of your shell.
 
 ### Example:
 `/polls/` page with list of Questions:
-<!-- ![This is an image](/assets/images/img.png) -->
+![This is an image](assets/images/img1.png)
 
 `/vote/1/`
 <!-- ![This is an image](/assets/images/img.png) -->
