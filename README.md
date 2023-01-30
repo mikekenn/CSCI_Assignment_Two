@@ -42,21 +42,20 @@ Share the screenshot of your shell.
 - [x] With a button to 'Vote'. On click of vote, it should open the choices for that question and the user must be able to vote on a hoice and submit.
 
 ### Example:
-`/polls/` page with list of Questions:
+`/polls/` page with list of Questions:  
+![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img4.png?raw=true)
 
-
-`/vote/1/`
-<!-- ![This is an image](/assets/images/img.png) -->
+`/vote/1/`  
+![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img5.png?raw=true)
 
 ## Question 4.
 - [ ] Design a page to display the poll results for a given question.
-### Example:
-`/results/1/`
-<!-- ![This is an image](/assets/images/img.png) -->
+`/results/1/`  
+![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img6.png?raw=true)
 
 ## Question 5.
-- [x] Add and edit a question with appropriate choices. You are allowed to use Django admin for this question.
-### Example:
+- [x] Add and edit a question with appropriate choices. You are allowed to use Django admin for this question.  
+![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img7.png?raw=true)
 
 ## Question 6.
 - [x] Django is easy to setup and use. Do you agree? (Yes/No)? write a brief reason for your choice.
