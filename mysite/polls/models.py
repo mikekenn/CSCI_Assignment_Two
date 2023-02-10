@@ -16,6 +16,7 @@ class Question(models.Model):
     )
 
     def __str__(self):
+        """Function to assist with printing"""
         return str(self.question_text)
 
     def was_published_recently(self):
