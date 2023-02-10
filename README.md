@@ -69,3 +69,24 @@ Add Django python setup steps.
 4. Create Django project `django-admin startproject mysite`
 5. spin up server `python3.11 manage.py runserver`
 6. Create polls app `paython3.11 manage.py startapp polls`
+
+## Steps to Run.
+
+1. Check Django is installed.
+    - Linux/macOS: `python -m django --version`
+    - Windows: `py -m django --version`
+2. Clone GitHub repo.
+    - Linux/macOS/Windows: `git clone [repoURL]`
+3. Move into root site folder.
+    - Linux/macOS/Windows: `cd mysite`
+4. Spin up server.
+    - Linus/macOS: `python manage.py runserver`
+    - Windows: `py manage.py runserver`
+5. Open up browser to following URL.
+    - To see the questions: `http://127.0.0.1:8000/polls/`
+    - To see the Admin panel: `http://127.0.0.1:8000/admin/`
+
+
+## TODOs
+
+1. Could be Dockerized to remove OS dependability.
