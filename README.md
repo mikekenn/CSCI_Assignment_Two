@@ -49,8 +49,8 @@ Share the screenshot of your shell.
 ![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img5.png?raw=true)
 
 ## Question 4.
-- [ ] Design a page to display the poll results for a given question.
-`/results/1/`  
+- [x] Design a page to display the poll results for a given question.
+`/1/results/`  
 ![This is an image](https://github.com/mikekenn/CSCI_Assignment_Two/blob/main/mysite/assets/images/img6.png?raw=true)
 
 ## Question 5.
